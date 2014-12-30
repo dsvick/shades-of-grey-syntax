@@ -2,8 +2,8 @@
   "name": "shades-of-grey-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A minimal gray theme based on the atom-light theme. It works well with the atom-light-ui ",
-  "repository": "https://github.com/atom/shades-of-grey-syntax",
+  "description": "A clean, minimal, low contrast, grey theme based on the atom-light theme.",
+  "repository": "https://github.com/dsvick/shades-of-grey-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
