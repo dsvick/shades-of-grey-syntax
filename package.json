@@ -1,7 +1,7 @@
 {
   "name": "shades-of-grey-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A clean, minimal, low contrast, grey theme based on the atom-light theme.",
   "repository": "https://github.com/dsvick/shades-of-grey-syntax",
   "license": "MIT",
