@@ -39,7 +39,7 @@
   .gutter .line-number.folded,
   .gutter .line-number:after,
   .fold-marker:after {
-    color: fuscia;
+    color: @fuscia;
   }
 
   .invisible {
@@ -61,6 +61,13 @@
   }
 }
 
+.bracket-matcher {
+    border-bottom: 1px solid lime;
+    position: absolute;
+    border: 1px solid white;
+    background-color: white;
+}
+
 .editor .search-results .marker .region {
   background-color: transparent;
   border: 1px solid @syntax-result-marker-color;
@@ -71,7 +78,7 @@
 }
 
 .comment {
-  color: fuscia;
+  color: @fuscia;
 }
 
 .entity {
@@ -170,7 +177,7 @@
 .punctuation {
   &.definition {
     &.comment {
-      color: fuscia;
+      color: @fuscia;
     }
 
     &.string,
